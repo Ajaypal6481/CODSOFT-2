@@ -1,0 +1,2 @@
+hello:hi,hello,hey
+timings:timings,schedule,opening hours
